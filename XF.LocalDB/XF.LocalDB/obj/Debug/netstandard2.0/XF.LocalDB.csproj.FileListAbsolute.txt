@@ -1,0 +1,41 @@
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\NovoAlunoView.xaml.g.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\MainPage.xaml.g.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CopyComplete
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\DemoGPS.xaml.g.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\MainPage.xaml.g.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\NovaMercadoriaView.xaml.g.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CopyComplete
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\XF.LocalDB - Copia\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XamlC.stamp

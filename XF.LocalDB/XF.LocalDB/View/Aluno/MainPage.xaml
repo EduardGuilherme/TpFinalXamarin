@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XF.LocalDB.View.Aluno.MainPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <StackLayout>
+                <Button x:Name="btnNovaMercadoria" Text="Novo" Clicked="OnNovaMercadoria"/>
+            </StackLayout>
+            <Label Text="Mercadorias" Font="18"/>
+            <ListView x:Name="lstMercadoria" ItemsSource="{Binding Mercadorias}" ItemTapped="OnMercadoriaTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="5,0,5,0">
+                                <Label Text="{Binding NomeDaMercadoria}"/>
+                                <Label Text="{Binding PesoDaMercadoria}"/>
+                                <Label Text="{Binding NomeDoProduto}"/>
+                                <Label Text="{Binding EmailDoProdutor}"/>
+                                <Label Text="{Binding NCM}"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <StackLayout>
+                <Button x:Name="GeoLocation" Text="GeoLocation" Clicked="btnGeoLocation"/>
+                <Button x:Name="Editar" Text="Editar" Clicked="btnEditar"/>
+                <Button x:Name="Deletar" Text="Deletar" Clicked="btnDeletar"/>
+            </StackLayout>
+         </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>
